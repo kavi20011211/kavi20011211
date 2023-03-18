@@ -1,4 +1,4 @@
-# 💫 About Me: (IT 213 701 82 - S.A.U.K. Suraweera)
+# 💫 About Me:
 🔭 I’m currently working as a freelancer<br>👯 I’m looking to collaborate on new tech projects<br>🤝 I’m looking for help with my technological skill<br>🌱 I’m currently learning as a software engineer at SLIIT<br>💬 Feel free to go through out my projects that I have done so far and stay in touch for new ones<br>⚡ I love cats and dogs...
 
 
