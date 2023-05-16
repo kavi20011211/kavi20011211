@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kavi20011211&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavi20011211&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+[![An image of @kavi20011211's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kavi20011211)](https://holopin.io/@kavi20011211)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/Brightseid2)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
